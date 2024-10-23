@@ -79,7 +79,7 @@ GameObject:
   - component: {fileID: 5432056692653037593}
   - component: {fileID: 8325555661385647623}
   m_Layer: 0
-  m_Name: inputCanon
+  m_Name: inputCannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

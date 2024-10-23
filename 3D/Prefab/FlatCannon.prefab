@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 326301447873237869}
   - component: {fileID: 6051041950636494546}
   m_Layer: 0
-  m_Name: CanonSpace
+  m_Name: FlatCannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -311,7 +311,7 @@ Transform:
   m_GameObject: {fileID: 4414014090667004433}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071069, y: -0.000000037573653, z: -0.0000001773438, w: 0.70710677}
-  m_LocalPosition: {x: -0.07, y: -0.9, z: -0.04}
+  m_LocalPosition: {x: -0.1, y: -0.8, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -332,9 +332,9 @@ MonoBehaviour:
   projectilePrefab: {fileID: 8817418893678199728, guid: 11ba4fc67d7f00642a83b39f53b148cd,
     type: 3}
   shootPoint: {fileID: 3814410593135057267}
-  shootForce: 10
+  shootForce: 7.5
   curveAmount: 2
-  projectilSize: 0.05
+  projectilSize: 0.1
 --- !u!114 &1218483922506852612
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -389,7 +389,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5376647521348777770}
   m_Layer: 0
-  m_Name: canon
+  m_Name: cannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -424,7 +424,7 @@ GameObject:
   - component: {fileID: 8887559594945926802}
   - component: {fileID: 3812970623252651027}
   m_Layer: 0
-  m_Name: Canon
+  m_Name: Cannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -613,7 +613,7 @@ PrefabInstance:
     - target: {fileID: 2687596636239661854, guid: 090497fcb3b279643b6546ed6003a032,
         type: 3}
       propertyPath: m_Name
-      value: inputCanon
+      value: inputCannon
       objectReference: {fileID: 0}
     - target: {fileID: 4223084523809094017, guid: 090497fcb3b279643b6546ed6003a032,
         type: 3}
