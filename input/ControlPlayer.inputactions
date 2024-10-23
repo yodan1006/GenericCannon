@@ -1,0 +1,45 @@
+{
+    "name": "ControlPlayer",
+    "maps": [
+        {
+            "name": "shoot",
+            "id": "01e18f02-d9e2-415d-b1f8-4b00adf02673",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "5f45d738-0081-405e-8be0-b33561ec4739",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4a6e15cd-1469-4649-824d-6436fc5d2ce3",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b5cec9c1-d7f8-4fe5-814e-e0f2bd1a5682",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
