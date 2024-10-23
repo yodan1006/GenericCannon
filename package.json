@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.yodan.genericcannon",                              
+  "displayName": "Generic Cannon",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Cannon Generic For Unity",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/yodan1006/GenericCannon.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
